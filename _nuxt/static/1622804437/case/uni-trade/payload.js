@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/case/uni-trade", {data:[{}],fetch:{},mutations:void 0});
